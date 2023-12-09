@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushfiqur-rahman-mrk&label=Profile%20views&color=0e75b6&style=flat" alt="mushfiqur-rahman-mrk" /> </p>
  <img align="right" height="200" src="https://img.etimg.com/thumb/width-420,height-315,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
+ 
 
 <h1 align="left">Hi 👋, I'm Md Mushfiqur Rahman Khan</h1>
 <h3 align="left">A passionate frontend developer from Bangladesh.Love to create attractive and responsive user interfaces, I enjoy the dynamic challenges of front-end development.🌟</h3>
@@ -41,9 +42,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="express" width="40" height="40"/>
-  </a>
+ 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
