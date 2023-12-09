@@ -104,7 +104,7 @@
 
 <h2 align="left">Contact Me 📬</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mushfiqur-rahman-mrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mushfiqur-rahman-khan-919125281" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mushfiqur-rahman-mrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mushfiqur-rahman-mrk" height="30" width="40" /></a>
 </p>
 
 Feel free to reach out if you have any questions or suggestions! or just to say hi!
